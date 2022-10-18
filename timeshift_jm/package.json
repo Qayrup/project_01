@@ -1,0 +1,13 @@
+{
+    "name": "timeshift_jm",
+    "version": "1.0.0",
+    "main": "index.js",
+    "description": "提供了时间格式转化",
+    "keywords": [
+        "time",
+        "timeshift",
+        "jiumei",
+        "jm"
+    ],
+    "license": "ISC"
+}
